@@ -57,7 +57,7 @@ To get started with this project, clone the repository and navigate to the desir
 
 ```bash
 git clone https://github.com/thetahmeed/flutter-with-bloc-and-cubit/tree/main
-cd flutter-bloc-examples
+cd flutter-with-bloc-and-cubit
 ```
 
 ## Installation
@@ -75,7 +75,7 @@ flutter run
 For example, to run the basic counter app:
 
 ```bash
-cd lib/basic_cubit_and_bloc
+cd flutter-with-bloc-and-cubit
 flutter run
 ```
 
