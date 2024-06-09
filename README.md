@@ -56,7 +56,7 @@ The `lib/ui/bloc/bloc_weather_ui` folder contains a simple weather app that uses
 To get started with this project, clone the repository and navigate to the desired example folder.
 
 ```bash
-git clone https://github.com/thetahmeed/flutter-with-bloc-and-cubit/tree/main
+git clone https://github.com/thetahmeed/flutter-with-bloc-and-cubit.git
 cd flutter-with-bloc-and-cubit
 ```
 
